@@ -1,0 +1,21 @@
+.post {
+  background-color: white;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin-bottom: 50px;
+}
+
+/* .post-header {
+  background-color: whitesmoke;
+} */
+
+.post-msg {
+  display: block;
+}
+
+.post-msg > div:empty {
+  display: none;
+}
+
+.hor-div > div:empty {
+  display: none;
+}
